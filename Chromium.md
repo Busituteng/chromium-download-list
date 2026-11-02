@@ -248,7 +248,7 @@ sudo apt-get install chromium-browser
 
 #### Dev / Beta
 
-##### Chromium OS
+##### Chromium OS:
 
 Chromium OS is the open-source OS designed by Google that primarily runs web applications. Based on Gentoo, it exists since 2009. Chromium is its default web browser. Google Chrome OS (closed-source) is based on Chromium OS.  
 
